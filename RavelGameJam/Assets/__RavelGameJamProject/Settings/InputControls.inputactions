@@ -1,0 +1,74 @@
+{
+    "name": "InputControls",
+    "maps": [
+        {
+            "name": "PlayerInputs",
+            "id": "29f9929a-b929-4d1f-b04a-0e28f26c4bc7",
+            "actions": [
+                {
+                    "name": "space",
+                    "type": "Button",
+                    "id": "c9ba784d-99b2-40de-b70b-39374c42615d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "leftClick",
+                    "type": "Button",
+                    "id": "1c04430a-f3b8-4d3a-92fc-56f678b8e95f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "rightClick",
+                    "type": "Button",
+                    "id": "07bd44c4-834d-4938-a6ff-f4c6c4ce1c66",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a49e3d2e-3c21-4e02-8606-fa46262353f5",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "leftClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c30f7c48-7df4-4d01-bac8-697149d7418a",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e6106c2f-cd22-470b-a2af-3db59c9fe954",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "rightClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

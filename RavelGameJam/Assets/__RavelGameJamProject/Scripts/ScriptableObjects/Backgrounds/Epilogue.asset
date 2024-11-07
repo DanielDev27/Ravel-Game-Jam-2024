@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65bafb1226ddfa46823f943e2e38df7, type: 3}
+  m_Name: Epilogue
+  m_EditorClassIdentifier: 
+  scene: 9
+  backgroundName: Epilogue
+  backgroundArt:
+  - {fileID: 21300000, guid: c358e065951f39244ac2a79007f3c338, type: 3}
+  - {fileID: 21300000, guid: 36bf225661ae40c46bf7f52e87a51e8b, type: 3}
+  - {fileID: 21300000, guid: 175869b46baf8da4ba0542b51e600863, type: 3}
+  - {fileID: 21300000, guid: a6c5505d017460b44925c05d7b035758, type: 3}
+  - {fileID: 21300000, guid: 5fbea3bd1d6385f4da3b7f9ffb11113e, type: 3}
+  environmentAmbience: {fileID: 0}

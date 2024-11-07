@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65bafb1226ddfa46823f943e2e38df7, type: 3}
+  m_Name: Scene1-Newspaper
+  m_EditorClassIdentifier: 
+  scene: 0
+  backgroundName: Scene1
+  backgroundArt:
+  - {fileID: 21300000, guid: ca7372b73827e1a4b837e4905fabbdc4, type: 3}
+  - {fileID: 21300000, guid: 658e185fd64d2e94c941b82b91ebb1a9, type: 3}
+  - {fileID: 21300000, guid: 894f4d44106d9ed49aee29d548681b2d, type: 3}
+  - {fileID: 21300000, guid: bf630dd816cde3f48bd6f147bf706208, type: 3}
+  - {fileID: 21300000, guid: d7f44ec87518b2d41a9a6bc1ac4345b8, type: 3}
+  - {fileID: 21300000, guid: 2f1f7f1b67a7c0444b5b0a1d3ee9d6be, type: 3}
+  - {fileID: 21300000, guid: 13c04b9a01396744dbba5083a3c16681, type: 3}
+  - {fileID: 21300000, guid: 312f70fae173036419c4742a0ae1a70b, type: 3}
+  - {fileID: 21300000, guid: 77b5625fa43bcf44e8c8370218a62025, type: 3}
+  environmentAmbience: {fileID: 0}
